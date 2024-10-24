@@ -91,5 +91,3 @@ int main(void)
     return 0;
 }
 ```
-
-This README provides an overview of the project’s purpose, features, setup instructions, and how to use the library. Feel free to adapt the file structure or any specific sections to match your implementation.
